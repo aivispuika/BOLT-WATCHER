@@ -1,0 +1,3 @@
+-keep class com.boltwatcher.** { *; }
+-keep class io.flutter.** { *; }
+-dontwarn io.flutter.**

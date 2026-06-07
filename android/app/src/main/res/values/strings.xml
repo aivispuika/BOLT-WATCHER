@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bolt Watcher</string>
+    <string name="accessibility_service_description">Uzrauga Bolt Driver aplikāciju un brīdina, kad parādās svarīgi pasūtījumi vai brīdinājumi.</string>
+</resources>

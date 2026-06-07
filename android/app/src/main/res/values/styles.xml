@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Flutter splash tēma — rāda kamēr Flutter inicializējas -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">#0d0d0d</item>
+        <item name="android:navigationBarColor">#0d0d0d</item>
+    </style>
+
+    <!-- Galvenā tēma pēc splash -->
+    <style name="NormalTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">#0d0d0d</item>
+        <item name="android:navigationBarColor">#0d0d0d</item>
+    </style>
+</resources>
